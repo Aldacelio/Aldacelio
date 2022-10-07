@@ -4,6 +4,5 @@
 de trabalho.
 - 🌱 Atualmente estou buscando aprender mais sobre linguagens que já conheço<br>
 para aperfeiçoar mais ainda meus conhecimentos.
-- 👯 Estou em busca de colaborar com novos projetos na área de desenvolvimento<br>
-desktop, web e mobile.
+- 👯 Estou em busca de colaborar com novos projetos, sejam eles desktop, web ou mobile.
 
