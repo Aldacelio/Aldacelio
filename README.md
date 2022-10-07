@@ -4,5 +4,5 @@
 de trabalho.
 - 🌱 Atualmente estou buscando aprendar mais sobre linguagens que ja conheço<br>
 para aperfeiçoar mais ainda meus conhecimentos.
-- 👯 Procuro coloborar com novos projetos na area de desenvolvimento web e mobile.
+- 👯 Procuro coloborar com novos projetos na área de desenvolvimento web e mobile.
 
