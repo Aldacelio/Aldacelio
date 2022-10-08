@@ -13,8 +13,8 @@ of work.-->
 para aperfeiçoar mais ainda meus conhecimentos.
 <!--- 💻 I'm currently looking to learn more about languages I already know<br>
 to further improve my knowledge.-->
-- 👯 Estou em busca de colaborar com novos projetos, sejam eles desktop, web ou mobile.
-<!--- 👯 I'm looking to collaborate with new projects, whether desktop, web or mobile.-->
+- 👯 Estou em busca de colaborar com novos projetos, sejam eles Desktop, Web ou Mobile.
+<!--- 👯 I'm looking to collaborate with new projects, whether Desktop, Web or Mobile.-->
 
 ##
 
