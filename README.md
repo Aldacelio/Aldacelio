@@ -52,4 +52,3 @@ to further improve my knowledge.-->
 </div>
 
   ##
-![Snake animation](https://github.com/aldacelio/aldacelio/blob/output/github-contribution-grid-snake.svg)
