@@ -1,13 +1,6 @@
-<html>
-    <head>
-        <link rel="stylesheet" href="style.css">
-    </head>
-    <body>
-        <h1>
-         teste
-     </h1>
-    </body>
-</html>
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 
 
