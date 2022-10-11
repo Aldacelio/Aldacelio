@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
-
-
 ## Oi, sou Antonio Aldacélio prazer em tê-lo no meu perfil👋
 <!-- ### Hi, I'm Antonio Aldacélio, nice to have you on my profile👋 -->
 
