@@ -1,7 +1,13 @@
-<style>
-
-</style>
- <h1> teste</h1>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>
+         teste
+     </h1>
+    </body>
+</html>
 
 
 
