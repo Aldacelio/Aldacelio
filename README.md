@@ -1,8 +1,8 @@
 ## Oi, sou Antonio Aldacélio prazer em tê-lo no meu perfil👋
 <!-- ### Hi, I'm Antonio Aldacélio, nice to have you on my profile👋 -->
 
-- 👤 23 anos de idade
-<!-- - 👤 23 years old -->
+- 👤 24 anos de idade
+<!-- - 👤 24 years old -->
 - 🎓 Sistemas de Informação - Universidade Federal do Ceará
 <!-- - 🎓 Information Systems - Federal University of Ceará -->
 - 💼 Atualmente estou em busca de oportunidades para ingressar no mercado
