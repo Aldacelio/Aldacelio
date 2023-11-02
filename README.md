@@ -1,6 +1,9 @@
-## Oi, sou Antonio Aldacélio prazer em tê-lo no meu perfil👋
-<!-- ### Hi, I'm Antonio Aldacélio, nice to have you on my profile👋 -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=140&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?type=waving&color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SOU+O+ANTONIO+ALDACÉLIO;É+UM+GRANDE+PRAZER+TÊ-LO+NO+MEU+PERFIL👋)](https://git.io/typing-svg)
+
+<!-- ### Hi, I'm Antonio Aldacélio, nice to have you on my profile👋 -->
+##
 - 👤 24 anos de idade
 <!-- - 👤 24 years old -->
 - 🎓 Sistemas de Informação - Universidade Federal do Ceará
