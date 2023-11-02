@@ -53,3 +53,4 @@ to further improve my knowledge.-->
 
   ##
   ![Snake animation](https://github.com/Aldacelio/Aldacelio/blob/output/github-contribution-grid-snake.svg)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Aldacelio username&repo=Aldacelio username&theme=react)](https://github.com/Aldacelio/Aldacelio)
