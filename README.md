@@ -19,13 +19,19 @@ to further improve my knowledge.-->
 <!-- - 👯 Estou em busca de colaborar com novos projetos, sejam eles Desktop, Web ou Mobile.
 <!--- 👯 I'm looking to collaborate with new projects, whether Desktop, Web or Mobile.-->
 <!-- - Portfólio: https://aldacelio.github.io/Portfolio/-->
-##
 
-<div>
+<!--<div>
   <a href="https://github.com/Aldacelio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldacelio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldacelio&layout=compact&langs_count=7&theme=github_dark"/>
+</div>-->
+
+<div align="center">  
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Aldacelio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7b68ee&icon_color=7b68ee&text_color=c9d1d9&bg_color=0d1117&custom_title=Antonio+Aldacélio+github+stats" alt="Antonio Aldacélio github stats" /> 
+  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldacelio&layout=compact&hide_border=true&title_color=7b68ee&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aldacelio&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
