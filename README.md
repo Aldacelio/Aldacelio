@@ -52,3 +52,4 @@ to further improve my knowledge.-->
 </div>
 
   ##
+  ![snake gif](https://github.com/Aldacelio/Aldacelio/blob/output/github-contribution-grid-snake.svg)
