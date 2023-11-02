@@ -1,24 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?type=waving&color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SOU+O+ANTONIO+ALDACÉLIO;É+UM+GRANDE+PRAZER+TÊ-LO+NO+MEU+PERFIL👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?type=waving&color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SOU+O+ANTONIO+ALDACÉLIO;TENHO+24+ANOS;ATUALMENTE+CURSO+SISTEMAS+DE+INFORMAÇÃO+NA+UFC;É+UM+GRANDE+PRAZER+TÊ-LO+NO+MEU+PERFIL👋)](https://git.io/typing-svg)
 
-<!-- ### Hi, I'm Antonio Aldacélio, nice to have you on my profile👋 -->
 ##
-- 👤 24 anos de idade
+<!-- ### Hi, I'm Antonio Aldacélio, nice to have you on my profile👋 -->
+<!-- 👤 24 anos de idade-->
 <!-- - 👤 24 years old -->
-- 🎓 Sistemas de Informação - Universidade Federal do Ceará
+<!-- - 🎓 Sistemas de Informação - Universidade Federal do Ceará -->
 <!-- - 🎓 Information Systems - Federal University of Ceará -->
-- 💼 Atualmente estou em busca de oportunidades para ingressar no mercado
+<!-- - 💼 Atualmente estou em busca de oportunidades para ingressar no mercado
 de trabalho.
 <!--- 💼 I am currently looking for opportunities to enter the market
 of work.-->
-- 💻 Atualmente estou buscando aprender mais sobre linguagens que já conheço<br>
+<!-- - 💻 Atualmente estou buscando aprender mais sobre linguagens que já conheço<br>
 para aperfeiçoar mais ainda meus conhecimentos.
 <!--- 💻 I'm currently looking to learn more about languages I already know<br>
 to further improve my knowledge.-->
-- 👯 Estou em busca de colaborar com novos projetos, sejam eles Desktop, Web ou Mobile.
+<!-- - 👯 Estou em busca de colaborar com novos projetos, sejam eles Desktop, Web ou Mobile.
 <!--- 👯 I'm looking to collaborate with new projects, whether Desktop, Web or Mobile.-->
-- Portfólio: https://aldacelio.github.io/Portfolio/
+<!-- - Portfólio: https://aldacelio.github.io/Portfolio/-->
 ##
 
 <div>
