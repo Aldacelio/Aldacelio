@@ -52,5 +52,3 @@ to further improve my knowledge.-->
 </div>
 
   ##
-  ![Snake animation](https://github.com/Aldacelio/Aldacelio/blob/output/github-contribution-grid-snake.svg)
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Aldacelio&repo=Aldacelio&theme=react)](https://github.com/Aldacelio/Aldacelio)
