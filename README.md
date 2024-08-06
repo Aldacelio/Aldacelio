@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?type=waving&color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SOU+O+ANTONIO+ALDACÉLIO;TENHO+24+ANOS;ATUALMENTE+CURSO+SISTEMAS+DE+INFORMAÇÃO+NA+UFC;É+UM+GRANDE+PRAZER+TÊ-LO+NO+MEU+PERFIL👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?type=waving&color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SOU+O+ANTONIO+ALDACÉLIO;TENHO+25+ANOS;ATUALMENTE+CURSO+SISTEMAS+DE+INFORMAÇÃO+NA+UFC;É+UM+GRANDE+PRAZER+TÊ-LO+NO+MEU+PERFIL👋)](https://git.io/typing-svg)
 
 ##
 
